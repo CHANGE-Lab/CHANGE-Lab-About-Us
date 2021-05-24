@@ -10,6 +10,7 @@ Our lab uses a range of methods—including
 * 🖥️ theoretical and statistical models
 * 📈 stakeholder surveys
 * 🗺️ studies along environmental disturbance gradients
+
 To understand how drivers like biological invasion, climate change, and harvesting are altering the structure and function of aquatic ecosystems and the goods and services they provide to people
 
 Please contact our our PI, Dr. Green, with any questions (stephanie.green@ualberta.ca)[stephanie.green@ualberta.ca] 
