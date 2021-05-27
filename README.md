@@ -3,7 +3,7 @@
 ✨ We are a lab group in the Biological Sciences dept. at the University of Alberta  - https://greenlab.ca     
 :question: What do we work on?  
 
-:exclamation: We focus on the causes and consequences of biodiversity change in marine ecosystems, with the goal of developing science-based tools to inform conservation and restoration under global change. 
+:exclamation: We focus on the causes and consequences of biodiversity change in marine and freshwater ecosystems, with the goal of developing science-based tools to inform conservation and restoration under global change. 
 Our lab uses a range of methods—including 
 * :tropical_fish: behavioural observation
 * 🌍 field experiments
